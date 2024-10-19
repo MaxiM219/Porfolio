@@ -1,0 +1,9 @@
+Pikachu,10,9,8
+Charizard,8,9,8
+Geodude,5,6,4
+Blastoise,8,8,9
+Wartortle,9,7,7
+Raichu,5,8,7
+Vulpix,7,7,4
+Zapdos,9,8,9
+Dragonite,9,10,8
